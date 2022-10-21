@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mcdonalds Menu</string>
+    <string name="icon_holder">Icon Holder</string>
+    <string name="app_desc">Lorem Ipsum</string>
+    <string name="app_title">Food Choices</string>
+    <string name="ckn">Chicken McNuggets</string>
+    <string name="caramel">Caramel Sundae</string>
+    <string name="chicken">Chicken with Spaghetti</string>
+    <string name="chocolate">Chocolate Fudge</string>
+    <string name="burger">Double Cheeseburger</string>
+    <string name="fries">French Fries</string>
+    <string name="title">McDonalds Menu</string>
+</resources>
